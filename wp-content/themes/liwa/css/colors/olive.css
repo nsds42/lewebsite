@@ -1,0 +1,213 @@
+/* =================================================================== */
+/* Olive #a4b11a
+====================================================================== */
+
+a, a:visited,
+#not-found i,
+.comment-by span.reply a:hover,
+.comment-by span.reply a:hover i,
+.categories a:hover,
+.testimonials-author,
+.happy-clients-author,
+.dropcap,
+.team-name h5:hover,
+.meta ul li a:hover,
+.list-1 li:before,
+.list-2 li:before,
+.list-3 li:before,
+.list-4 li:before  { color: #a4b11a; }
+
+.circle-featured i {
+	color: #a4b11a;
+}
+
+.shop figcaption {
+	color: #a4b11a;
+}
+
+.shop figcaption a {
+	background: #a4b11a;
+}
+
+input.search-blog {
+	border: thin solid #a4b11a;
+}
+
+.grid figcaption {
+	color: #a4b11a;
+}
+
+
+.grid figcaption a {
+	background: #a4b11a;
+}
+
+
+#current,
+.menu ul li a:hover,
+.menu ul > li:hover > a,
+.flickr-widget-blog a:hover { border-color: #a4b11a; }
+.menu ul ul { border-top-color: #a4b11a; }
+
+.tp-leftarrow:hover,
+.tp-rightarrow:hover,
+.flexslider .flex-next:hover,
+.flexslider .flex-prev:hover,
+.featured-box:hover > .circle,
+.featured-box:hover > .circle span,
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3,
+.portfolio-item:hover > figure > a .item-description,
+.sb-navigation-left:hover,
+.sb-navigation-right:hover,
+.newsletter-btn,
+.search-btn { background-color: #a4b11a; }
+
+#filters a:hover, .selected { background-color: #a4b11a !important; }
+
+.premium .plan-price,
+.premium .plan-features a.button:hover { background-color: #a4b11a; }
+.premium.plan h3,
+.premium .plan-features a.button { background-color: #a4b11a; }
+
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3 { box-shadow: 0 0 0 8px rgba(115,184,25,0.3); }
+
+#current:after,
+.pagination .current,
+.pagination ul li a:hover,
+.tags a:hover,
+.button.gray:hover,
+.button.light:hover,
+.button.color,
+input[type="button"],
+input[type="submit"],
+input[type="button"]:focus,
+input[type="submit"]:focus,
+.tabs-nav li.active a,
+.ui-accordion .ui-accordion-header-active:hover,
+.ui-accordion .ui-accordion-header-active,
+.trigger.active a,
+.trigger.active a:hover,
+.skill-bar-value,
+.highlight.color,
+.notice-box:hover { background: #a4b11a; }
+
+.pagination ul li > a:hover,
+.pagination ul li > span:hover,
+.pagination ul li > a:focus,
+.pagination ul li > span:focus {
+  border-color: #7d8805;
+}
+
+.tabs-nav li a{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #a4b11a;
+}
+
+#search-form .search-text-box {
+	background-color: #a4b11a;
+}
+
+.punch_text2 {
+
+}
+
+.text_headline{
+	color: #a4b11a;
+	font-weight: bold;
+}
+
+#current{
+	color:#a4b11a;
+}
+
+.menu ul li a:hover{
+	color:#a4b11a;
+
+}
+
+.portfolio-item:hover > figure > a .item-description h5 {
+	color: #a4b11a;
+}
+
+.pin-box h4 a:hover, .tline-box h4 a:hover { 
+	color:#a4b11a;
+}
+
+
+.tline-topdate {
+	background:#a4b11a;
+}
+
+.blog-cat li:hover h4 {
+	color:#a4b11a;
+}
+
+.blog-cat li.blog-cat-done {
+  color: #a4b11a;
+}
+.blog-cat li.blog-cat-done .blog-cat-name {
+  color: #a4b11a;
+}
+
+
+
+blockquote {
+	border-left: 3px solid #a4b11a;
+}
+
+
+.plan-price {
+	background-color: #a4b11a;
+}
+
+.flat-box:hover i{
+	color: #a4b11a;
+}
+
+.mi-slider nav a:hover,
+.mi-slider nav a.mi-selected {
+	color: #a4b11a;
+}
+
+.shop-price{
+	color: #a4b11a;
+}
+
+.shop-price-detail{
+	color: #a4b11a;
+}
+
+
+
+.tline-topdate {
+	border: 1px solid #a4b11a;
+}
+
+
+
+.blog-cat-title{
+	background: #a4b11a;
+
+}
+
+.promo-box:hover > .circle-2 {
+	background-color: #a4b11a;
+	box-shadow: 0 0 0 8px #7d8805;
+}
+
+
+#style-switcher h2 a {
+	background: url("../../images/switcher.png") no-repeat 10px center transparent;
+	background-color: #a4b11a;
+	display: block;
+	height: 43px;
+	position: absolute;
+	right: -43px;
+	text-indent: -9999px;
+	top: 0;
+	width: 43px;
+	border-radius: 0 3px 3px 0;
+}

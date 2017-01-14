@@ -1,0 +1,215 @@
+/* =================================================================== */
+/* Yellow #fec901
+====================================================================== */
+
+a, a:visited,
+#not-found i,
+.comment-by span.reply a:hover,
+.comment-by span.reply a:hover i,
+.categories a:hover,
+.testimonials-author,
+.happy-clients-author,
+.dropcap,
+.team-name h5:hover,
+.meta ul li a:hover,
+.list-1 li:before,
+.list-2 li:before,
+.list-3 li:before,
+.list-4 li:before { color: #fec901; }
+
+.circle-featured i {
+	color: #fec901;
+}
+
+.shop figcaption {
+	color: #fec901;
+}
+
+.shop figcaption a {
+	background: #fec901;
+}
+
+input.search-blog {
+	border: thin solid #fec901;
+}
+
+.grid figcaption {
+	color: #fec901;
+}
+
+
+.grid figcaption a {
+	background: #fec901;
+}
+
+
+#current,
+.menu ul li a:hover,
+.menu ul > li:hover > a,
+.flickr-widget-blog a:hover { border-color: #fec901; }
+.menu ul ul { border-top-color: #fec901; }
+
+.tp-leftarrow:hover,
+.tp-rightarrow:hover,
+.flexslider .flex-next:hover,
+.flexslider .flex-prev:hover,
+.featured-box:hover > .circle,
+.featured-box:hover > .circle span,
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3,
+.portfolio-item:hover > figure > a .item-description,
+.sb-navigation-left:hover,
+.sb-navigation-right:hover,
+.newsletter-btn,
+.search-btn { background-color: #fec901; }
+
+#filters a:hover, .selected { background-color: #fec901 !important; }
+
+.premium .plan-price,
+.premium .plan-features a.button:hover { background-color: #fec901; }
+.premium.plan h3,
+.premium .plan-features a.button { background-color: #fec901; }
+
+.featured-box:hover > .circle-2,
+.featured-box:hover > .circle-3 { box-shadow: 0 0 0 8px rgba(115,184,25,0.3); }
+
+#current:after,
+.pagination .current,
+.pagination ul li a:hover,
+.tags a:hover,
+.button.gray:hover,
+.button.light:hover,
+.button.color,
+input[type="button"],
+input[type="submit"],
+input[type="button"]:focus,
+input[type="submit"]:focus,
+.tabs-nav li.active a,
+.ui-accordion .ui-accordion-header-active:hover,
+.ui-accordion .ui-accordion-header-active,
+.trigger.active a,
+.trigger.active a:hover,
+.skill-bar-value,
+.highlight.color,
+.notice-box:hover { background: #fec901; }
+
+.pagination ul li > a:hover,
+.pagination ul li > span:hover,
+.pagination ul li > a:focus,
+.pagination ul li > span:focus {
+  border-color: #87630d;
+}
+
+.tabs-nav li a{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+	border-bottom-color: #fec901;
+}
+
+#search-form .search-text-box {
+	background-color: #fec901;
+}
+
+.punch_text2 {
+
+}
+
+.text_headline{
+	color: #fec901;
+	font-weight: bold;
+}
+
+#current{
+	color:#fec901;
+}
+
+.menu ul li a:hover{
+	color:#fec901;
+
+}
+
+
+.portfolio-item:hover > figure > a .item-description h5 {
+	color: #fec901;
+}
+
+.pin-box h4 a:hover, .tline-box h4 a:hover { 
+	color:#fec901;
+}
+
+
+.tline-topdate {
+	background:#fec901;
+}
+
+.blog-cat li:hover h4 {
+	color:#fec901;
+}
+
+.blog-cat li.blog-cat-done {
+  color: #fec901;
+}
+.blog-cat li.blog-cat-done .blog-cat-name {
+  color: #fec901;
+}
+
+
+
+blockquote {
+	border-left: 3px solid #fec901;
+}
+
+
+.plan-price {
+	background-color: #fec901;
+}
+
+.flat-box:hover i{
+	color: #fec901;
+}
+
+.mi-slider nav a:hover,
+.mi-slider nav a.mi-selected {
+	color: #fec901;
+}
+
+.shop-price{
+	color: #fec901;
+}
+
+.shop-price-detail{
+	color: #fec901;
+}
+
+
+
+.tline-topdate {
+	border: 1px solid #fec901;
+}
+
+
+
+.blog-cat-title{
+	background: #fec901;
+
+}
+
+.promo-box:hover > .circle-2 {
+	background-color: #fec901;
+	box-shadow: 0 0 0 8px #87630d;
+}
+
+
+
+#style-switcher h2 a {
+	background: url("../../images/switcher.png") no-repeat 10px center transparent;
+	background-color: #fec901;
+	display: block;
+	height: 43px;
+	position: absolute;
+	right: -43px;
+	text-indent: -9999px;
+	top: 0;
+	width: 43px;
+	border-radius: 0 3px 3px 0;
+}
